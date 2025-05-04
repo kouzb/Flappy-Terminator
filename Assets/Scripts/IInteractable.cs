@@ -1,3 +1,5 @@
-﻿public interface IInteractable
+﻿using UnityEngine;
+
+public interface IInteractable
 {
 }
